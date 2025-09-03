@@ -9,4 +9,4 @@ var removeElement = function(nums, val) {
     return k;
 };
 
-removeElement([1, 2, 1, 3, 4], 6)
+removeElement([1, 2, 1, 3, 4], 6)   
